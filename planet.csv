@@ -1,0 +1,11 @@
+ID,name,Km,Types,Population,Atmosphere,Terraforming Status
+1,Eylan-arte,17900,Habitable caplital,High,Nitrogen Oxygen,High
+2,Kettelius,5500,Habitable Satellite,Medium,Nitrogen Oxygen,High
+3,Dellunan,6900,Habitable Satellite,Medium,Nitrogen Oxygen,High
+4,Dellbanaum,18500,Habitable Forest,Low,Nitrogen Oxygen,Medium
+5,Tielon,5700,Resource,Low,Nitrogen Oxygen,Medium
+6,Kataron,9000,Habitable Forest,Medium,Nitrogen Oxygen,Low
+7,Verinus,18200,Habitable Desert,High,Nitrogen Oxygen,High
+8,Sahm,14300,Desert,Low,Nitrogen Oxygen,Low
+9,Tenesius,23100,?,?,?,?
+10,Talgarnuia,22100,Habitable Polar,?,Nitrogen Oxygen,?

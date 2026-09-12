@@ -22,6 +22,9 @@ Created custom CSV datasets for web application data and integrated a data-searc
 
 (Web application is still being improved)
 
+(Mobile UI is currently unavailable)
+
+(Optimization is in progress)
 
 This is intended for personal projects only; commercial use or distribution is restricted. It was developed primarily using free objects and free licenses, which have been verified by the creator.
 

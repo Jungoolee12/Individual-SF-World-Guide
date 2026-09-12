@@ -1,4 +1,5 @@
-**SF world Guide Project**
+#(**SF world Guide Project**)
+
 (Created by Jun-goo Lee)
 
 
@@ -9,6 +10,7 @@
 **:simple summary:**
 
 Programming Languages and Tools Used :
+
 HTML, CSS, JavaScript, SQL-style-queries (Coordinate Finder only)
 
 
@@ -22,6 +24,7 @@ Created custom CSV datasets for web application data and integrated a data-searc
 
 
 This is intended for personal projects only; commercial use or distribution is restricted. It was developed primarily using free objects and free licenses, which have been verified by the creator.
+
 **It was developed primarily using free objects and free licenses, which have been verified by the creator.
 It would be changed if the creator overlooked something.**
 

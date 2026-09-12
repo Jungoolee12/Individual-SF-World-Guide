@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!dOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
@@ -3216,7 +3216,7 @@ document.getElementById('sql-run').addEventListener('click', ()=>{
 function showFinderResults(list){
   const box=document.getElementById('results');
   box.innerHTML='';
-  if(!list||!list.length){ box.innerHTML='<div class="result-empty">일치하는 행성이 없습니다</div>'; return; }
+  if(!list||!list.length){ box.innerHTML='<div class="result-empty">No results found</div>'; return; }
   const nameKey=FINDER_COLS.includes('name')?'name':FINDER_COLS[0];
   list.forEach(p=>{
     const it=document.createElement('div');
